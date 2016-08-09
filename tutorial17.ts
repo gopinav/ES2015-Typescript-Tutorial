@@ -1,6 +1,6 @@
 let employee = ["Chandler", "Bing", "Female"];
 
-let [fname, lname, gender] = employee;
+let [fname, lname, gender="Male"] = employee;
 
 console.log(fname);
 console.log(lname);
