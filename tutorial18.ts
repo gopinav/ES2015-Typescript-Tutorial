@@ -15,3 +15,12 @@ console.log(lname);
 console.log(gender);
 
 
+/* With Alias
+let {fname: f, lname: l, gender: g} = employee;
+
+
+
+console.log(f);
+console.log(l);
+console.log(g);
+*/
